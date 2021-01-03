@@ -26,6 +26,7 @@ main.py
 
 ## Instruction:
 Program is a Minesweeper game done using python and python arcade library.
+
 Key bindings:
 
 - Left mouse button uncovers field
