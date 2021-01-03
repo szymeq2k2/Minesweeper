@@ -5,7 +5,6 @@ class field:
         self.fieldType = fieldType
         self.flagged = False
         self.uncovered = False
-        # print("created field at " + str(self.x) + " " + str(self.y) + " of type " + self.fieldType)
     
     def checkField(self, x, y):
         if self.x == x and self.y == y:
