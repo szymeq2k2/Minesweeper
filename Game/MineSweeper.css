@@ -1,0 +1,110 @@
+body
+{
+    background-color: rgb(167, 167, 167);
+}
+
+button
+{
+    background-color: rgb(218, 218, 218);
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    width: 64px;
+    height: 64px;
+}
+
+img
+{
+    visibility: hidden;
+    width: 100%;
+    height: 90%;
+}
+
+table
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#TopBar
+{
+    background-color: rgb(63, 63, 63);
+    width: 800px;
+    height: 82px;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Elements
+{
+    width: 100%;
+    height: 82px;
+
+    float: left;
+}
+
+#Flags
+{
+    width: 30%;
+    height: 82px;
+    float: left;
+}
+
+#Face
+{
+    width: 40%;
+    height: 82px;
+    float: left;
+}
+
+#FaceImage
+{
+    visibility: visible;
+    width: 80px;
+    height: 80px;
+
+    margin-left: 119px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+
+#Timer
+{
+    width: 30%;
+    height: 82px;
+    
+    float: left;
+}
+
+#Field
+{
+    background-color: gray;
+    width: 800px;
+    height: 680px;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#TimerBar
+{
+    background-color: white;
+    width: 50%;
+    height: 40px;
+    font-size: 38px;
+    text-align: center;
+    margin-top: 21px;
+}
+
+#FlagsBar
+{
+    background-color: white;
+    width: 50%;
+    height: 40px;
+    font-size: 38px;
+    text-align: center;
+    margin-top: 21px;
+    margin-left: 50%;
+}
